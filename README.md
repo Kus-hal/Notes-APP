@@ -1,5 +1,2 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kus-hal/Notes-APP/main/assets/88149584/af1f4f35-2083-4228-874c-ed74237d100d.jpg">
-  <img src="https://raw.githubusercontent.com/Kus-hal/Notes-APP/main/assets/88149584/096acb95-354a-4bc9-95a7-21f47bad9de7.jpg">
-</p>
 
+![rsz_1rsz_65d969c037467](https://github.com/Kus-hal/Notes-APP/assets/88149584/39cc2ae1-fa60-4509-b86a-d0862bddacfd)    ![rsz_1rsz_65d96b728fdf1](https://github.com/Kus-hal/Notes-APP/assets/88149584/bebb949b-9c48-44e4-ac40-ae6c84fd90d7)
